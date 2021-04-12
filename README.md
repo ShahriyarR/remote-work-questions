@@ -13,8 +13,9 @@ ASAN xidmətdə 3 iş günü ərzində sizi təntənəli surətdə vergi ödəyi
 ## 3
 * Sual: Xaricdən vəsaiti necə qəbul edirik?
 * Cavab:
-Xaricdən ödəniş qəbul etmək üçün, siz bankda dublikat hesab açmalı və həmin hesabın nömrəsini ödənişi göndərən şəxsə verməlisiniz.
-Dublikat hesabı, elektron qaydada, banka getmədən, e-taxes.gov.az-dan açmaq olur. Bu linkdən baxın: [e-taxes](https://www.e-taxes.gov.az/dispatcher?menu=bankm&submenu=1&nav=bankm)
+Xaricdən ödəniş qəbul etmək üçün, siz bankda dublikat hesab açmalı və həmin hesab nömrəsini ödənişi göndərən şəxsə, şirkətə verməlisiniz.
+Dublikat hesabı, elektron qaydada, banka getmədən, e-taxes.gov.az-dan açmaq olur. Dublikat hesab, bankda sahibkar hesabıdır, yəni adi bank hesabıdır.
+Bu linkdən baxın: [e-taxes](https://www.e-taxes.gov.az/dispatcher?menu=bankm&submenu=1&nav=bankm)
 
 ## 4
 * Sual: Vergi dövrü, təqvimi nədir və ya haçan vergi ödəməliyəm?
