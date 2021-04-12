@@ -30,7 +30,7 @@ Hesabat da online qaydada doldurulur. Doldurulma qaydası Vergi xidmətinin sayt
 
 ## 6
 * Sual: Vergi necə hesablanır?
-Cavab:
+* Cavab:
 Mikro-sahibkarlar, vergi güzəştləri səbəbilə aylıq ödənişdən 5% vergi ödəməlidirlər. 
 Hər nağdlaşdırılan ödənişdən 1% və bankdan asılı olaraq 0.6% bank komissiyası tutulur.
 Dolayısı ilə maksimal 6.6% hər ay gedə bilər :) Nağdlaşdırmayıb, hesaba bağlı kartdan istifadə etsəniz 1%-dən yaxa qurtarmaq olar.
