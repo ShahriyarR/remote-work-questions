@@ -44,16 +44,16 @@ Elə təsəvvür edin ki, Yanvar, Fevral və Mart ayları üzrə sizə hər ay 1
 Ödənişin daxil olduğu gün üçün məzənnəmiz müvafiq olaraq olub: 1.69, 1.70 və 1.68
 Dolayısı ilə banka daxil olan vəsait 1690 + 1700 + 1680 AZN olub.
 5% olmaqla vergi hesablanması:
-Yanvar -> 1690*5/100 = 84.5 AZN
-Fevral -> 1700*5/100 = 85 AZN
-Mart -> 1690*5/100 = 84 AZN
+Yanvar -> 1690x5/100 = 84.5 AZN
+Fevral -> 1700x5/100 = 85 AZN
+Mart -> 1690x5/100 = 84 AZN
 Toplam vergi: 253.5 - bu məbləğ hesabatda göstəriləcək.
 
 DSMF ödənişləri elə təsəvvür edək ki, 50 AZN aylıqdır və dolayısı ilə 3 aya 150 AZN DSMF ödənişidir.
-Bank xərcləri: 1690*0.6/100 + 1700*0.6/100 + 1680*0.6/100 = 30.42 AZN.
+Bank xərcləri: 1690x0.6/100 + 1700x0.6/100 + 1680x0.6/100 = 30.42 AZN.
 
 Xərcləri də qeyd edirik: 150 + 30.42 = 180.42.
 Yekun vergi məbləği 253.5 - 180.42 = 73.08.
 
 Nağdlaşdırma vergisi məbləği, hər 3 ay nağdlaşdırsaq (bu məbləğin hesabata dəxli yoxdur, göstərilmir orda nə də xərc kimi göstərilə bilmir):
-1690*1/100 + 1700*1/100 + 1680*1/100 = 50.7 AZN.
+1690x1/100 + 1700x1/100 + 1680x1/100 = 50.7 AZN.
