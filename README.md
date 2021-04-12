@@ -38,6 +38,7 @@ Dolayısı ilə maksimal 6.6% hər ay gedə bilər :) Nağdlaşdırmayıb, hesab
 ## 7
 * Sual: Yox eee indi nətər hesablanır vergi?
 * Cavab:
+
 Xüsusi əziyyət çəkənlərçün izahlı lüğət:
 Elə təsəvvür edin ki, Yanvar, Fevral və Mart ayları üzrə sizə hər ay 1000$ ödəniş gəlib. 
 Ödənişin daxil olduğu gün üçün məzənnəmiz müvafiq olaraq olub: 1.69, 1.70 və 1.68
