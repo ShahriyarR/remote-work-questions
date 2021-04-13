@@ -67,3 +67,8 @@ Yekun vergi məbləği 253.5 - 180.42 = 73.08.
 Nağdlaşdırma vergisi məbləği, hər 3 ay nağdlaşdırsaq (bu məbləğin hesabata dəxli yoxdur, göstərilmir orda nə də xərc kimi göstərilə bilmir):
 
 1690x1/100 + 1700x1/100 + 1680x1/100 = 50.7 AZN.
+
+## 8
+* Sual: Azərbaycandan xaricdə yaşayaraq remote işləyib, Azərbaycandaki hesaba ödəmə almaq mümkündürmü?
+* Cavab:
+https://github.com/ShahriyarR/remote-work-questions/issues/1#issuecomment-818810787
