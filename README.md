@@ -99,3 +99,7 @@ Sahibkar hesabina bagli bank kartinda atm-den cekme qaydasi ferqli ola biler onu
 Online nagdsiz ishler ucun ise idealdir.
 Xaricde gedib yashayanda meselen, 3 ay Turkiyede falan hansisa turistik yerde ishleyende odenish gelende bu kartla yashamaq olur :)
 
+## 12
+* Sual: "Rezidentlik  Sertifikatı" nədir?
+* Cavab:
+Bəzi şirkətlər ikili vergi tutulmaması üçün sizdən "Rezidentlik  Sertifikatı" tələb edə bilir (sizə ödənilən məbləğə görə şirkət vergi ödəməməsi üçün). Azərbaycan Respublikası ilə digər dövlətlər arasında bağlanmış ikiqat vergitutmanın aradan qaldırılması haqqında beynəlxalq müqavilələyə əsasən sizə Rezidentlik Sertifikatini yenədə Vergi xidməti  təqdim edir. Bunun üçün online şəkildə DTA-01 ərizəsi  təqdim edirsiz. Əlavə olaraq bağladığınız müqaviləni  təqdim  etməlisiz. Hansı dövlətlərlə müqaviləmizin olmasını Verginin internet səhifəsindən tapmaq mümkündür. Rezidentlik Sertifikati illik verilir. 
