@@ -81,10 +81,10 @@ Səhv etmirəmsə, 15000 AZN aylıq limit var.
 ## 10
 * Sual: Payoneer kart ilə vergi ödəyicisi olmaq arasındakı fərqlər varmı?
 * Cavab:
-Hormetli vergi odeyicisi olmagin bir sira ustunlukleri var:
+Hörmətli vergi ödəyicisi olmağın bir sıra üstünlükləri var:
 
-    DSMF odenishi oldugu ucun qojalanda pensiya sohbeti gedir :)))
-    Ipoteka goturende 2 il erzinde bank hesabina daxil olan vesait ve hemcinin 2 il erzinde odediyiniz vergiler teleb olunur. Bunlar yerinde olsa Ipoteka almaq her hansi problem ola bilmez. Eyni hadise kredit goturende de bash verir - heyatdi bilmek olmur bir de gordun lazim oldu.
+    DSMF ödənişi olduğu üçün qocalanda pensiya söhbəti gedir :)))
+    Ipoteka götürəndə 2 il ərzində bank hesabına daxil olan vesait ve hemcinin 2 il erzinde odediyiniz vergiler teleb olunur. Bunlar yerinde olsa Ipoteka almaq her hansi problem ola bilmez. Eyni hadise kredit goturende de bash verir - heyatdi bilmek olmur bir de gordun lazim oldu.
     Medaxili, mexarici, borcu-xerci hesablamaq daha rahatdi, bash da az yorulur, engineer olaraq tenbel adamam men 5%-i tutun bashim sakit olsun mentiqi ile gedirem.
 
 Paynoneer kart men 2015-de istifade etmeye calishmisham onda da bele bir problem olmushdu ki, bir defeye yalniz 300$ cixartmaq olurdu, her defe cixardanda 1.5%-2% tuturdu + nese elave de bir fee var idi. Odur ki, imtina etmishdim, yani hesab kitab edende serf etmemishdi, cunki o vaxti remote ishleyenler sadeleshdirilmish vergi odeyicisi gedirdi ve o da rayonda 2% bakida 4% idi.
