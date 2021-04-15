@@ -89,3 +89,13 @@ Hörmətli vergi ödəyicisi olmağın bir sıra üstünlükləri var:
 
 Paynoneer kart men 2015-de istifade etmeye calishmisham onda da bele bir problem olmushdu ki, bir defeye yalniz 300$ cixartmaq olurdu, her defe cixardanda 1.5%-2% tuturdu + nese elave de bir fee var idi. Odur ki, imtina etmishdim, yani hesab kitab edende serf etmemishdi, cunki o vaxti remote ishleyenler sadeleshdirilmish vergi odeyicisi gedirdi ve o da rayonda 2% bakida 4% idi.
 Bashqa her hansi payoneer-e qarshi arqumentim yoxdur. Belke kimse daha yaxshi biler ama menim tecrubemde bele idi.
+
+## 11
+* Sual: Dublikat hesab açılarkən o hesaba bağlı olan bank kartı avtomatik olaraq təqdim olunur?
+* Cavab:
+Dublikat hesab acarken secdiyiniz banki duzgun arashdirmaq lazimdir.
+Adeten Sahibkar paketi deye bir sheyler olur ve ola bilir. Gerek bankdan sorushasiniz.
+Sahibkar hesabina bagli bank kartinda atm-den cekme qaydasi ferqli ola biler onu da gerek deqiqleshdiresiniz.
+Online nagdsiz ishler ucun ise idealdir.
+Xaricde gedib yashayanda meselen, 3 ay Turkiyede falan hansisa turistik yerde ishleyende odenish gelende bu kartla yashamaq olur :)
+
