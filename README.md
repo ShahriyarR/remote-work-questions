@@ -105,3 +105,10 @@ Xaricde gedib yashayanda meselen, 3 ay Turkiyede falan hansisa turistik yerde is
 * Sual: "Rezidentlik  Sertifikatı" nədir?
 * Cavab:
 Bəzi şirkətlər ikili vergi tutulmaması üçün sizdən "Rezidentlik  Sertifikatı" tələb edə bilir (sizə ödənilən məbləğə görə şirkət vergi ödəməməsi üçün). Azərbaycan Respublikası ilə digər dövlətlər arasında bağlanmış ikiqat vergitutmanın aradan qaldırılması haqqında beynəlxalq müqavilələyə əsasən sizə Rezidentlik Sertifikatini yenədə Vergi xidməti  təqdim edir. Bunun üçün online şəkildə DTA-01 ərizəsi  təqdim edirsiz. Əlavə olaraq bağladığınız müqaviləni  təqdim  etməlisiz. Hansı dövlətlərlə müqaviləmizin olmasını Verginin internet səhifəsindən tapmaq mümkündür. Rezidentlik Sertifikati illik verilir. 
+
+
+## 13
+* Sual: Dublikat hesab ucun bank seçiminin güclü bir önəmi var yoxsa fərq eləmir? Fərg edirsə hansi bankdan hesab açmaq daha əlverişlidir?
+* Cavab:
+Sözün düzünü desək, bizim bankların inkişaf tempi, 21-ci əsr tələblərinə cavab verməsi, müştəri xidməti, mobil banking imkanları ancaq xoş arzularla bağlıdır :)
+Odur ki, mənimçün bankların heç bir fərqi yoxdur. Onsuz da bir iş üçün lazım olacaq ki, ödənişi qəbul edə biləsiniz vəssalam.
