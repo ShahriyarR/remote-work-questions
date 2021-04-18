@@ -14,7 +14,9 @@ ASAN xidmətdə 3 iş günü ərzində sizi təntənəli surətdə vergi ödəyi
 * Sual: Xaricdən vəsaiti necə qəbul edirik?
 * Cavab:
 Xaricdən ödəniş qəbul etmək üçün, siz bankda dublikat hesab açmalı və həmin hesab nömrəsini ödənişi göndərən şəxsə, şirkətə verməlisiniz.
+
 Dublikat hesab üçün şəhadətnaməni, elektron qaydada, banka getmədən, e-taxes.gov.az-dan bank filianızı seçib göndərmək olur.
+Əgər siz ödənişi dollarla qəbul edəcəksinizsə, o zaman AZN və Dollar hesabı üçün ərizə göndərin.
 3 iş günü ərzində həmin seçdiyiniz, bank filialına yaxınlaşıb, sənədlərə qol çəkdikdən sonra sizin artıq sahibkar hesabınız olacaq.
 Dublikat hesab, bankda sahibkar hesabıdır, yəni adi bank hesabıdır.
 Bu linkdən baxın: [e-taxes](https://www.e-taxes.gov.az/dispatcher?menu=bankm&submenu=1&nav=bankm)
