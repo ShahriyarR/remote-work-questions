@@ -19,7 +19,7 @@ Dublikat hesab üçün şəhadətnaməni, elektron qaydada, banka getmədən, e-
 Əgər siz ödənişi dollarla qəbul edəcəksinizsə, o zaman AZN və Dollar hesabı üçün ərizə göndərin.
 3 iş günü ərzində həmin seçdiyiniz, bank filialına yaxınlaşıb, sənədlərə qol çəkdikdən sonra sizin artıq sahibkar hesabınız olacaq.
 Dublikat hesab, bankda sahibkar hesabıdır, yəni adi bank hesabıdır.
-Bu linkdən baxın: [e-taxes](https://www.e-taxes.gov.az/dispatcher?menu=bankm&submenu=1&nav=bankm)
+Bu prosedurun video izahına baxa bilərsiniz: [Youtube](https://www.youtube.com/watch?v=PdK70CRw4H0)
 
 ## 4
 * Sual: Vergi dövrü, təqvimi nədir və ya haçan vergi ödəməliyəm?
