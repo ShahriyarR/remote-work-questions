@@ -109,3 +109,10 @@ Bəzi şirkətlər ikili vergi tutulmaması üçün sizdən "Rezidentlik  Sertif
 * Cavab:
 Sözün düzünü desək, bizim bankların inkişaf tempi, 21-ci əsr tələblərinə cavab verməsi, müştəri xidməti, mobil banking imkanları ancaq xoş arzularla bağlıdır :)
 Odur ki, mənimçün bankların heç bir fərqi yoxdur. Onsuz da bir iş üçün lazım olacaq ki, ödənişi qəbul edə biləsiniz vəssalam.
+
+## 14
+* Sual: Payoneer bank hesabı ilə Payoneer kart arasında fərq nədir?
+* Cavab: Biri kartdır, digəri isə bank hesabı.
+Əgər sizin Payoneer bank hesabınız varsa, bu zaman xaricdən ödənişi ilk öncə o hesaba transfer edib, daha sonra da o hesabdan istədiyiniz məbləği yerli bank hesabınıza yönləndirə bilərsiniz. Hər hansı bank fee-dən burda xəbərim yoxdur. Lakin sizə lazım olan qədər pulu göndərmək bir üstünlük sayıla bilər.
+Yəni, Payoneer hesabınızda 5000$ toplanırsa, onu istədiyiniz hesablara artıq özünüz göndərirsiniz, çalışdığınız şirkət yox.
+Payoneer kart isə yuxarıda qeyd etmişəm, mənə qatışıq gələn baş ağrısıdır.
