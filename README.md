@@ -116,3 +116,11 @@ Odur ki, mənimçün bankların heç bir fərqi yoxdur. Onsuz da bir iş üçün
 Əgər sizin Payoneer bank hesabınız varsa, bu zaman xaricdən ödənişi ilk öncə o hesaba transfer edib, daha sonra da o hesabdan istədiyiniz məbləği yerli bank hesabınıza yönləndirə bilərsiniz. Hər hansı bank fee-dən burda xəbərim yoxdur. Lakin sizə lazım olan qədər pulu göndərmək bir üstünlük sayıla bilər.
 Yəni, Payoneer hesabınızda 5000$ toplanırsa, onu istədiyiniz hesablara artıq özünüz göndərirsiniz, çalışdığınız şirkət yox.
 Payoneer kart isə yuxarıda qeyd etmişəm, mənə qatışıq gələn baş ağrısıdır.
+
+## 15
+* Sual: Salam, adıma bir neçə full+part time müqavilə var iş yeri Azərbaycan olmaq üzrə, xaricdən yeni part time remote iş görürsəm bu problem olmaz ki?
+* Cavab:
+Xarici remote iş təklif edən şirkətlərin 99%-i yalnızca onlar üçün full-time çalışmağınızı tələb edir. Yani part-time təklif edənlərini mən görməmişəm.
+Təbii ki, sonradan üstü açılsa ki, eyni anda bir neçə şirkət üçün çalışırsınız bu imzalanan kontraktın qaydalarının pozulması deməkdir. Düşünmürəm ki, xarici şirkət əziyyət çəkib sizi məhkəməyə verəcək amma ki, həmin şirkət yəqin ki, sizdən sonra bütün azərbaycanlıları işə götürməyəcək. Ümumiyyətlə bu kimi işlərdə çox diqqətli, disiplinli və etibarlı olmaq lazımdır ki, sonradan kimisə refer etdikdə həmin azərbaycanlı da işə girə bilsin, iş sahibi olsun. Bu işin mənəvi və hüquqi tərəfi.
+O ki qaldı deyək ki, eyni anda 3 iş görüb çatdıranlara şəxsən mən həsəd aparıram :) Özüm heç vaxt eyni anda 1 işdən artıq işdə çalışmamışam, sadəcə nə enerjim qalır nə də həvəsim.
+Vergi Xidməti üçün isə bu lap əladır, daha artıq qazanırsınız, deməli daha artıq vergi verirsiniz.
