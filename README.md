@@ -124,3 +124,13 @@ Xarici remote iş təklif edən şirkətlərin 99%-i yalnızca onlar üçün ful
 Təbii ki, sonradan üstü açılsa ki, eyni anda bir neçə şirkət üçün çalışırsınız bu imzalanan kontraktın qaydalarının pozulması deməkdir. Düşünmürəm ki, xarici şirkət əziyyət çəkib sizi məhkəməyə verəcək amma ki, həmin şirkət yəqin ki, sizdən sonra bütün azərbaycanlıları işə götürməyəcək. Ümumiyyətlə bu kimi işlərdə çox diqqətli, disiplinli və etibarlı olmaq lazımdır ki, sonradan kimisə refer etdikdə həmin azərbaycanlı da işə girə bilsin, iş sahibi olsun. Bu işin mənəvi və hüquqi tərəfi.
 O ki qaldı deyək ki, eyni anda 3 iş görüb çatdıranlara şəxsən mən həsəd aparıram :) Özüm heç vaxt eyni anda 1 işdən artıq işdə çalışmamışam, sadəcə nə enerjim qalır nə də həvəsim.
 Vergi Xidməti üçün isə bu lap əladır, daha artıq qazanırsınız, deməli daha artıq vergi verirsiniz.
+
+## 16
+* Sual: ASAN imzaya gərək varmı?
+* Cavab:
+Məndə yoxdur. Səbəbi çox sadədir - login\parolla daxil olmaq olur e-taxes.gov.az-a və bütün işləri də görmək olur.
+
+## 17
+* Sual: e-qaimə falan bizə aiddirmi?
+* Cavab:
+Xeyr.
