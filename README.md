@@ -134,3 +134,19 @@ Məndə yoxdur. Səbəbi çox sadədir - login\parolla daxil olmaq olur e-taxes.
 * Sual: e-qaimə falan bizə aiddirmi?
 * Cavab:
 Xeyr.
+
+### 18
+* Sual:
+Salam. DSMF və Siğorta ödənişlərini hara və necə ödəmək lazımdı? Online ödəmək mümkündü? Mümkün olduğu halda, hansı məlumatlar (voen, istifadeci və s) lazımdı ödənişi düzgün yerinə yetirmək ücün? Ümumi olaraq borcumun olmağını, varsada nəgədər ödəniş etməli oldugumu gorə biləcəyim bir platforma var?
+
+* Cavab:
+GPP.az-dan odenish edirik butun borclari.
+"Shexsi hesab vereqesi"-de en axirda vergi borcu gorsenir.
+GPP.az-dan borc odeyerken:
+111130 - Fiziki shexslerin diger gelirlerinden gelir vergisi
+
+DSMF borcu odeyerken:
+Muzdla işləməyənlərin fərdi sahibkarlıq fəaliyyəti üzrə ödənilən sosial ayırmalar:
+121380 - Digər sahələrdə sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər üzrə ödənilən sosial ayırmalar
+
+Icbari de hemcinin orda qeyd olunur Diger sahelerde bla bla bla
