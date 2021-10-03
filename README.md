@@ -150,3 +150,13 @@ Muzdla işləməyənlərin fərdi sahibkarlıq fəaliyyəti üzrə ödənilən s
 121380 - Digər sahələrdə sahibkarlıq fəaliyyəti ilə məşğul olan fiziki şəxslər üzrə ödənilən sosial ayırmalar
 
 Icbari de hemcinin orda qeyd olunur Diger sahelerde bla bla bla
+
+
+### 19 
+* Sual:
+DSMF və icbari sığorta məbləği nə qədərdir?
+
+* Cavab:
+
+![dsmf_sigorta](https://user-images.githubusercontent.com/3852029/135749666-1570c9b2-fa88-4754-adc7-1182bd18716f.png)
+
