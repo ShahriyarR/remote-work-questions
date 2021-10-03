@@ -135,7 +135,7 @@ Məndə yoxdur. Səbəbi çox sadədir - login\parolla daxil olmaq olur e-taxes.
 * Cavab:
 Xeyr.
 
-### 18
+## 18
 * Sual:
 Salam. DSMF və Siğorta ödənişlərini hara və necə ödəmək lazımdı? Online ödəmək mümkündü? Mümkün olduğu halda, hansı məlumatlar (voen, istifadeci və s) lazımdı ödənişi düzgün yerinə yetirmək ücün? Ümumi olaraq borcumun olmağını, varsada nəgədər ödəniş etməli oldugumu gorə biləcəyim bir platforma var?
 
@@ -152,7 +152,7 @@ Muzdla işləməyənlərin fərdi sahibkarlıq fəaliyyəti üzrə ödənilən s
 Icbari de hemcinin orda qeyd olunur Diger sahelerde bla bla bla
 
 
-### 19 
+## 19 
 * Sual:
 DSMF və icbari sığorta məbləği nə qədərdir?
 
@@ -160,3 +160,17 @@ DSMF və icbari sığorta məbləği nə qədərdir?
 
 ![dsmf_sigorta](https://user-images.githubusercontent.com/3852029/135749666-1570c9b2-fa88-4754-adc7-1182bd18716f.png)
 
+
+## 20
+* Sual:
+Vergi borcunu ödəmək üçün hesabda borc qədər pul saxlamalıyam, ya sonra istənilən kartla ödəmək olur?
+
+* Cavab:
+Hesabda pul saxlamağa ehtiyac yoxdur, istənilən kartla gpp.az-dan ödəmək olur vergi borcunur. 18-ci suala baxın.
+
+## 21
+* Sual:
+Hesabat dövründə heç bir ödəniş qəbul etməmişəm, yenə də DSMF+sığorta ödəməliyəm?
+
+* Cavab:
+Xeyr, yalnız ödəniş aldığınız ay üçün vergi, dsmf, sığorta ödəyirsiniz. Niyə? Çünki pul yoxdursa, borc da yoxdur.
