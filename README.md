@@ -1,4 +1,4 @@
-# Remote xariclə işləyən camaatın ən çox verdiyi suallara cavablar.
+# Remote xariclə işləyən camaatın ən çox verdiyi suallara cavablar.(Əgər sualınıza cavab tapa bilmədinizsə, issue açın - cavablandıraq)
 
 ## 1
 * Sual: Biz vergi ödəməliyik?
