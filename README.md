@@ -1,5 +1,18 @@
 # Remote xariclə işləyən camaatın ən çox verdiyi suallara cavablar.(Əgər sualınıza cavab tapa bilmədinizsə, issue açın - cavablandıraq)
 
+## 0
+* Sual: Deyilənə görə ümumi ardıcıllıq aşağıdakı suallara cavablardan aydın olmur. Çox gözəl o zaman bir də belə yazıram.
+* Cavab:
+1. İlk öncə VÖEN açmaq lazımdır.
+2. Daha sonra bankda dublikat hesab.
+3. Bütün bu məlumatları verirsiniz xaricdəki şirkətə(yəni VÖEN və bank rekvizitlərinizi və əlavə nə istəsələr onu).
+4. Daha sonra xaricdəki şirkət sizə müqavilə göndərəcək, hansı ki, yuxarıda onlara verdiyiniz məlumatlar öz əksini tapacaq.
+5. Müqaviləni imzaladıqdan sonra, işə başlayırsınız, işləyirsiniz və şirkət sizə işlədiyiniz üçün pul verəcək(təbii olaraq).
+6. Şirkət pulu göndərəndə yəqin ki, sizə bildirəcək ki, pul onlar tərəfindən sizə göndərilib - bu zaman online banking app vasitəsilə bank hesabınızı yoxlayın.
+7. Əgər pul gəlibsə, şəxsiyyət vəsiqənizlə bankınıza yaxınlaşın. 3 iş günü ərzində hesabda pul görsənmirsə, bankınızla əlaqəyə keçin - soruşun ki, pul hanı?
+8. Pulu kassadan sayaraq götürün.
+9. Pulu xərcləyin və ya yığın.
+
 ## 1
 * Sual: Biz vergi ödəməliyik?
 * Cavab:
