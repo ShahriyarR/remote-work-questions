@@ -164,8 +164,29 @@ Muzdla işləməyənlərin fərdi sahibkarlıq fəaliyyəti üzrə ödənilən s
 
 Icbari de hemcinin orda qeyd olunur Diger sahelerde bla bla bla
 
+## 19
 
-## 19 
+* Sual:
+Hökumət ödəniş portalında, müvafiq təsnifat kodunu seçəndən sonra mənim DSMF borcum görsənirmi? Yəni orda 0 (sıfır) AZN yazılıbsa,
+o deməkdi ki, mənim borcum yoxdu?
+
+* Cavab:
+Xeyr. GPG.az-da sizin borclar görünmür,borcunuzu öyrənmək üçün şəxsi hesab vərəqənizə baxmalısınız.
+
+## 20
+
+* Sual:
+Yaxşı bəs şəxsi hesab vərəqəsinə hardan baxaq?
+
+* Cavab:
+[e-taxes.gov.az](https://login.e-taxes.gov.az/login/) saytında daxil olduqda, Bölmə olaraq *E-bəyannamə, ƏDV-DH və ŞHV* seçin,
+açılan pəncərədən *Məlumat axtar*  dropdownundan *Şəxsi hesab vərəqəsi* seçin və orda da açılan pəncərədə tarix aralığına görə axtarış edin.
+Axtarış nəticələri seçdiyiniz tarix aralığına görə vergi, DSMF, sığorta, nəyi ödəmisiniz nəyi ödəməmisiniz, nə qədər borcunuz var, nə qədər faiz gəlib
+hamısını göstərəcək.
+
+Borcunuza gələn faizləri də görmək istəyirsinizsə, axtarış edəndə *Çap  kriteriyası* selectindən *Faiz hesablanması məqsədləri üçün* seçin.
+
+## 21
 * Sual:
 DSMF və icbari sığorta məbləği nə qədərdir?
 
@@ -174,14 +195,14 @@ DSMF və icbari sığorta məbləği nə qədərdir?
 ![dsmf_sigorta](https://user-images.githubusercontent.com/3852029/135749666-1570c9b2-fa88-4754-adc7-1182bd18716f.png)
 
 
-## 20
+## 22
 * Sual:
 Vergi borcunu ödəmək üçün hesabda borc qədər pul saxlamalıyam, ya sonra istənilən kartla ödəmək olur?
 
 * Cavab:
 Hesabda pul saxlamağa ehtiyac yoxdur, istənilən kartla gpp.az-dan ödəmək olur vergi borcunur. 18-ci suala baxın.
 
-## 21
+## 23
 * Sual:
 Hesabat dövründə heç bir ödəniş qəbul etməmişəm, yenə də DSMF+sığorta ödəməliyəm?
 
