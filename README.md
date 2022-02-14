@@ -188,11 +188,14 @@ Borcunuza gələn faizləri də görmək istəyirsinizsə, axtarış edəndə *�
 
 ## 21
 * Sual:
-DSMF və icbari sığorta məbləği nə qədərdir?
+DSMF və icbari sığorta məbləği nə qədərdir? 
 
 * Cavab:
 
-![dsmf_sigorta](https://user-images.githubusercontent.com/3852029/135749666-1570c9b2-fa88-4754-adc7-1182bd18716f.png)
+Ən dəqiqini 195 bilir amma yeni vergi qanuna edilən dəyişikliyə əsasən,
+
+DSMF: 75 AZN
+İcbari tibbi sığorta isə: 12 AZN olub.
 
 
 ## 22
