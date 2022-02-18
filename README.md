@@ -211,3 +211,14 @@ Hesabat dövründə heç bir ödəniş qəbul etməmişəm, yenə də DSMF+sığ
 
 * Cavab:
 Xeyr, yalnız ödəniş aldığınız ay üçün vergi, dsmf, sığorta ödəyirsiniz. Niyə? Çünki pul yoxdursa, borc da yoxdur.
+
+# 24
+* Sual:
+VÖEN ilə bağlı hesab açmasam, şirkətdən adi dollar hesabıma ödəniş etməsini istəsəm onda nə baş verir? Deyək ki, VÖEN-im yoxdur və mütəmadi olaraq ödəniş almayacağam, sadəcə hansısa freelance işə görə bir dəfəlik ödəniş olunmalıdı.
+
+* Cavab
+Burada bankdan asılı olaraq bir neçə ssenari ola bilər:
+1. Bank ödənişi ləğv edəcək (səbəb olaraq şübhəli əməliyyat göstərə bilərlər, misalçün, Kapital Bank bu cür edir)
+2. Bank ödənişi qəbul edəcək lakin hesabınızı bloklayacaq. Daha sonra bank sizə zəng edib pulun mənbəyin soruşacaq (Azər Türk Bank ilə belə bir hal yaşayan yoldaşlar olub)
+3. Elə xarici şirkətlər olur ki, ödənişi hüquqi şəxs kimi hesabdan hesaba yox, adi card-to-card edirlər, bildiyim qədəri ilə bu halda problem yaranmır. Yaransa belə "Məni xaricdə saxlayan var" kimi bəhanələrlə ötüşdürmək olar yəqin ki.
+4. Nə bilim vallah
