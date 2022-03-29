@@ -211,3 +211,10 @@ Hesabat dövründə heç bir ödəniş qəbul etməmişəm, yenə də DSMF+sığ
 
 * Cavab:
 Xeyr, yalnız ödəniş aldığınız ay üçün vergi, dsmf, sığorta ödəyirsiniz. Niyə? Çünki pul yoxdursa, borc da yoxdur.
+
+## 24
+* Sual:
+2 iş yerim var xaricdə. 3 hesabım var (EUR, USD, AZN(bank əməliyyatları üçün lazım olur dedilər)). 1 ay ərzində 2 hesabıma ödəniş olunubsa 2x(DSMF + İcbari tibbi siğorta) ödənilməlidir? və ya rüblük hesabat hər hesabəm üçün ayrıca verilir?
+
+* Cavab:
+Xeyr, sadəcə 1 dsmf ödənişi ve 1 icbari ödənişi lazımdır. Hər hesab üçün ayrıca verilmir.
