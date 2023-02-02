@@ -194,8 +194,8 @@ DSMF və icbari sığorta məbləği nə qədərdir?
 
 Ən dəqiqini 195 bilir amma yeni vergi qanuna edilən dəyişikliyə əsasən,
 
-DSMF: 75 AZN
-İcbari tibbi sığorta isə: 12 AZN olub.
+DSMF: 86,25 AZN
+İcbari tibbi sığorta isə: 13,80 AZN olub.
 
 
 ## 22
