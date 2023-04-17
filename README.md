@@ -220,7 +220,7 @@ Xeyr, yalnız ödəniş aldığınız ay üçün vergi, dsmf, sığorta ödəyir
 Xeyr, sadəcə 1 dsmf ödənişi ve 1 icbari ödənişi lazımdır. Hər hesab üçün ayrıca verilmir.
 
 ## 25
-* Təsnifat kodunun avtomatlaşdırılması [videosu linki](https://github.com/muradmustafayev/remote-work-questions/blob/main/video.mp4?raw=true)
+* Hökumət ödəniş portalından ödəniş edərkən təsnifat kodlarının avtomatlaşdırılma [videosu linki](https://github.com/muradmustafayev/remote-work-questions/blob/main/video.mp4?raw=true)
 
 ![Təsnifat kodu avtomatlaşdırılması](video.gif)
 
