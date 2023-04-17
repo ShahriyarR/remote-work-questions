@@ -227,14 +227,14 @@ Xeyr, sadəcə 1 dsmf ödənişi ve 1 icbari ödənişi lazımdır. Hər hesab �
 
 * videoda istifadə olunan kod
 
-````
+```javascript
 const specificTexts = ["111111", "121112", "125300", "127300", "124110"];
 
 $("#servicesModal .list li").addClass("active").find("label").each((_, label) => {
   const $label = $(label);
   specificTexts.some(text => $label.text().includes(text) && $label.css("background-color", "red").find("input").prop("checked", true));
 });
-````
+```
 
 ## 26
 * Sual:
