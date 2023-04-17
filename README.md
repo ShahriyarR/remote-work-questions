@@ -218,3 +218,21 @@ Xeyr, yalnız ödəniş aldığınız ay üçün vergi, dsmf, sığorta ödəyir
 
 * Cavab:
 Xeyr, sadəcə 1 dsmf ödənişi ve 1 icbari ödənişi lazımdır. Hər hesab üçün ayrıca verilmir.
+
+## 26
+* Sual:
+VÖEN-imə bağlı vergi borcumu avtomatlaşdırılmış şəkildə necə öyrənə bilərəm?
+
+* Cavab:
+Daxili API istifadə edən shell skript yaza bilərsiniz:
+
+```sh
+VOEN=0123456789
+curl -s \
+  -X POST \
+  -H 'Content-Type: application/json' \
+  -d '{"METHOD": "wsEbynGetDebetSum", "voen": "$VOEN"}' https://www.e-taxes.gov.az/controller \
+| jq .RESULT.debet
+```
+
+Daha çox məlumat üçün bax: [vergiBorcu.js](https://www.e-taxes.gov.az/ebyn/js/vergiBorcu.js)
