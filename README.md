@@ -218,3 +218,19 @@ Xeyr, yalnız ödəniş aldığınız ay üçün vergi, dsmf, sığorta ödəyir
 
 * Cavab:
 Xeyr, sadəcə 1 dsmf ödənişi ve 1 icbari ödənişi lazımdır. Hər hesab üçün ayrıca verilmir.
+
+## 25
+* Hökumət ödəniş portalından ödəniş edərkən təsnifat kodlarının avtomatlaşdırılma [videosu linki](https://github.com/muradmustafayev/remote-work-questions/blob/main/video.mp4?raw=true)
+
+![Təsnifat kodu avtomatlaşdırılması](video.gif)
+
+* videoda istifadə olunan kod
+
+````
+const specificTexts = ["111111", "121112", "125300", "127300", "124110"];
+
+$("#servicesModal .list li").addClass("active").find("label").each((_, label) => {
+  const $label = $(label);
+  specificTexts.some(text => $label.text().includes(text) && $label.css("background-color", "red").find("input").prop("checked", true));
+});
+````
