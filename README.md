@@ -141,7 +141,9 @@ Vergi Xidməti üçün isə bu lap əladır, daha artıq qazanırsınız, deməl
 ## 16
 * Sual: ASAN imzaya gərək varmı?
 * Cavab:
-Məndə yoxdur. Səbəbi çox sadədir - login\parolla daxil olmaq olur e-taxes.gov.az-a və bütün işləri də görmək olur.
+Əvvəl ehtiyyac yox idi, çünki login\parolla bütün işləri görmək olurdu.Indi isə yeni qərara əsasən bütün sahibkarlarda Asan Imza olması mütləqdir.
+01.01.2024 tarixinə qədər login\parol ilə işləmək mümkün olacaq, sonra isə yalniz Asan Imza ilə.
+Qısacası, VÖEN açdırmaq üçün ASAN Xidmətə gedərkən əlinizdə olsun.
 
 ## 17
 * Sual: e-qaimə falan bizə aiddirmi?
