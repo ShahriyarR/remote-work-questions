@@ -1,4 +1,4 @@
-# Arxiv REPO, məlumatlar daha yenilənmir. Sərbəst şəkildə kopyalayıb, şəxsi repo yaradıb, bu işə dava edə bilərsiniz.
+# Arxiv REPO, məlumatlar daha yenilənmir. Sərbəst şəkildə kopyalayıb, şəxsi repo yaradıb, bu işə davam edə bilərsiniz.
 
 
 # Remote xariclə işləyən camaatın ən çox verdiyi suallara cavablar.(Əgər sualınıza cavab tapa bilmədinizsə, issue açın - cavablandıraq)
